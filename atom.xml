@@ -2,33 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>书途同归</title>
   
-  <subtitle>生活中最美好的事情莫过于读到一本好书</subtitle>
+  <subtitle>阅读使我们相遇</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-19T09:35:21.564Z</updated>
+  <updated>2022-04-19T14:27:53.926Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>书老板</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>我从哪来</title>
     <link href="http://example.com/2022/04/19/hello-world/"/>
     <id>http://example.com/2022/04/19/hello-world/</id>
-    <published>2022-04-19T09:35:21.563Z</published>
-    <updated>2022-04-19T09:35:21.564Z</updated>
+    <published>2022-04-19T14:22:22.000Z</published>
+    <updated>2022-04-19T14:27:53.926Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>欢迎来到“书途同归”，我是书老板。一直以来都想做一个平台来分享一些自己的感悟，也不枉在世上走一遭。前两个月过的浑浑噩噩的，因为思索再三还是放弃了读博的念头。放弃了读博的念头，感觉整个人的心境都发生了变化，轻松了很多，日常的时间也多出来很多。于是我准备做点儿自己喜欢的事情，“书途同归”就此诞生。</p><p>生日就定在2022年4月18日吧！因为昨天就开始建站了，毕竟不是计算机专业出生，搞了一天才初见成效。</p><h2 id="这里有什么"><a href="#这里有什么" class="headerlink" title="这里有什么"></a>这里有什么</h2><ul><li>好书分享</li></ul><p>顾名思义，我想大家看到名字就应该会想到这一个与“书”有关的网站。关于读书我是这么想的，书会让我接触到很多新的思想和有趣的内容，会让我更加高效、专注。相比于那些没营养的短视频，一本好书能够给你带来更多正向的影响。</p><ul><li>其他</li></ul><p>其他，也许会有很多吧！具体的内容还没有想好，可能会分享一些有意思的课程、或者一些观点。总之，这里会是一个很有意思的地方~</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;欢迎来到“书途同归”，我是书老板。一直以来都想做一个平台来分享一些自己的感悟，也不枉在世上走一遭。前两个月过的浑浑噩噩的，因为思索再三还是放弃了读博的念头。放弃了读博的念头，感觉整个人的心境都发生了变化，轻松了很多，日常的时间也多出来很多。于是我准备做点儿自己喜欢的事情，“</summary>
       
     
     
